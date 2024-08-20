@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    border-radius: 1000px;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
